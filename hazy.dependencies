@@ -1,0 +1,20 @@
+[
+  {
+    "remote": "github",
+    "repository": "CyanogenMod/android_packages_apps_SamsungServiceMode",
+    "target_path": "packages/apps/SamsungServiceMode",
+    "revision": "cm-12.0"
+  },
+  {
+    "remote": "github",
+    "repository": "ArchiDroid/android_kernel_samsung_smdk4412",
+    "target_path": "kernel/samsung/smdk4412",
+    "revision": "cm-12.0"
+  },
+  {
+    "remote": "github",
+    "repository": "ArchiDroid/proprietary_vendor_samsung",
+    "target_path": "vendor/samsung",
+    "revision": "cm-12.0"
+  }
+]
