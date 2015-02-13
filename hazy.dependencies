@@ -7,7 +7,7 @@
   },
   {
     "remote": "github",
-    "repository": "CyanogenMod/android_device_samsung_qcom",
+    "repository": "CyanogenMod/android_device_samsung_qcom-common",
     "target_path": "device/samsung/qcom-common",
     "revision": "cm-12.0"
   },
